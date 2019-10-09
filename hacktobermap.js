@@ -30,6 +30,12 @@ var hacktobermap = [
     longitude: 85.137566
   },
   {
+    name: "Molly Lupton",
+    location: "Brooklyn, NY",
+    latitude: 40.726830,
+    longitude: --73.943510
+  },
+  {
     name: "Shailza",
     location: "Delhi, India",
     latitude: 28.7041,
@@ -74,8 +80,8 @@ var hacktobermap = [
   {
     name: "M Faisal Akbar",
     location: "Indonesia",
-    latitude: -6.887750,
-    longitude: 107.664880
+    latitude: -6.88775,
+    longitude: 107.66488
   },
   {
     name: "Saurav Saha",
@@ -116,7 +122,7 @@ var hacktobermap = [
   {
     name: "Hitesh Roy",
     location: "Nagpur",
-    latitude: 18.520430,
+    latitude: 18.52043,
     longitude: 73.856743
   },
   {
@@ -192,10 +198,10 @@ var hacktobermap = [
     longitude: -74.6255
   },
   {
-    name: 'Aayush Rawal',
-    location: 'Chennai',
-    latitude: '13.0827',
-    longitude: '80.2707'
+    name: "Aayush Rawal",
+    location: "Chennai",
+    latitude: "13.0827",
+    longitude: "80.2707"
   },
   {
     name: "Eniedson Junior",
@@ -212,7 +218,7 @@ var hacktobermap = [
   {
     name: "Braden Shipley",
     location: "Denton, TX",
-    latitude: 33.214840,
+    latitude: 33.21484,
     longitude: -97.133064
   },
   {
@@ -224,7 +230,7 @@ var hacktobermap = [
   {
     name: "Nitin Sharma",
     location: "Delhi",
-    latitude: 28.704060,
+    latitude: 28.70406,
     longitude: 77.102493
   },
   {
@@ -242,7 +248,7 @@ var hacktobermap = [
   {
     name: "Sasithorn Supamarkpukdee",
     location: "Thailand",
-    latitude: 15.8700,
+    latitude: 15.87,
     longitude: 100.9925
   },
   {
@@ -255,19 +261,19 @@ var hacktobermap = [
     name: "Ian Kahwai",
     location: "Harare",
     latitude: -17.825167,
-    longitude: 31.033510
+    longitude: 31.03351
   },
   {
     name: "Ogundiji Bolade (AdroitCode)",
     location: "Lagos Nigeria",
-    latitude: 6.649190,
-    longitude: 3.302540
+    latitude: 6.64919,
+    longitude: 3.30254
   },
   {
     name: "Airam Rguez",
     location: "Spain",
     latitude: 40.463669,
-    longitude: -3.749220
+    longitude: -3.74922
   },
   {
     name: "Moksh",
@@ -290,26 +296,26 @@ var hacktobermap = [
   {
     name: "Shubhang Singhal",
     location: "Mayur Vihar Phase1",
-    latitude: 28.589150,
-    longitude: 77.304690
+    latitude: 28.58915,
+    longitude: 77.30469
   },
   {
     name: "John-Paul Kelly",
     location: "Glusburn",
     latitude: 53.009033,
-    longitude: 2.00365,
+    longitude: 2.00365
   },
   {
     name: "Neeraj Yadav",
     location: "Himachal Pradesh",
     latitude: 31.817261,
-    longitude: 77.302757,
+    longitude: 77.302757
   },
   {
     name: "Pradyuman Dixit",
     location: "Hague",
-    latitude: 52.080190,
-    longitude: 4.310130
+    latitude: 52.08019,
+    longitude: 4.31013
   },
   {
     name: "Arpit J",
@@ -332,7 +338,7 @@ var hacktobermap = [
   {
     name: "Anna CIA",
     location: "São Paulo",
-    latitude: -23.550520,
+    latitude: -23.55052,
     longitude: -46.633308
   },
   {
@@ -356,13 +362,13 @@ var hacktobermap = [
   {
     name: "Nikhil Shrivastava",
     location: "Jalandhar",
-    latitude: 31.3260,
+    latitude: 31.326,
     longitude: 75.5762
   },
   {
     name: "Aman Kumar Soni",
     location: "Jalandhar",
-    latitude: 31.3260,
+    latitude: 31.326,
     longitude: 75.5762
   },
   {
@@ -374,13 +380,13 @@ var hacktobermap = [
   {
     name: "Kshitij Agrawal",
     location: "Kharagpur",
-    latitude: 22.346010,
+    latitude: 22.34601,
     longitude: 87.231972
   },
   {
     name: "cherrysrc",
     location: "Lower Saxony",
-    latitude: 52.949300,
+    latitude: 52.9493,
     longitude: 10.050893
   },
   {
@@ -405,7 +411,7 @@ var hacktobermap = [
     name: "Tobias",
     location: "Gummersbach",
     latitude: 51.028351,
-    longitude: 7.565430
+    longitude: 7.56543
   },
   {
     name: "Fredrik Engstrand",
@@ -435,7 +441,7 @@ var hacktobermap = [
     name: "atom",
     location: "Spain",
     latitude: 40.416775,
-    longitude: -3.703790
+    longitude: -3.70379
   },
   {
     name: "Vilnius",
@@ -495,13 +501,13 @@ var hacktobermap = [
     name: "Nitesh",
     location: "Mumbai",
     latitude: 19.0596,
-    longitude: 72.8295,
+    longitude: 72.8295
   },
   {
     name: "Jamessom Queiroz",
     location: "Brasilia",
     latitude: -15.793633,
-    longitude: -47.882760
+    longitude: -47.88276
   },
   {
     name: "Pawan Gorai",
@@ -554,7 +560,7 @@ var hacktobermap = [
   {
     name: "Michael",
     location: "Strong",
-    latitude: 42.293270,
+    latitude: 42.29327,
     longitude: -82.711693
   },
   {
@@ -567,7 +573,7 @@ var hacktobermap = [
     name: "Igor Gavelyuk",
     location: "Ukraine",
     latitude: 46.487529,
-    longitude: 30.548510
+    longitude: 30.54851
   },
   {
     name: "Sweta Sahoo",
@@ -590,14 +596,14 @@ var hacktobermap = [
   {
     name: "Johnniexson",
     location: "University of Benin, Benin city, Nigeria",
-    latitude: 6.334360,
+    latitude: 6.33436,
     longitude: 5.600647
   },
   {
-    name : "Angel",
-    location : "Medellin, Colombia",
-    latitude : 6.251900,
-    longitude : -75.622090
+    name: "Angel",
+    location: "Medellin, Colombia",
+    latitude: 6.2519,
+    longitude: -75.62209
   },
   {
     name: "Rafael De Luna",
@@ -626,8 +632,8 @@ var hacktobermap = [
   {
     name: "Akshay Chopra",
     location: "Maharashtra, India",
-    latitude: 19.751480,
-    longitude: 75.713890
+    latitude: 19.75148,
+    longitude: 75.71389
   },
   {
     name: "Suvojit Barick",
@@ -656,7 +662,7 @@ var hacktobermap = [
   {
     name: "Nilesh D",
     location: "Chennai, India",
-    latitude: 13.082680,
+    latitude: 13.08268,
     longitude: 80.270721
   },
   {
@@ -669,7 +675,7 @@ var hacktobermap = [
     name: "M L",
     location: "Ohio, US",
     latitude: 41.505493,
-    longitude: -81.681290
+    longitude: -81.68129
   },
   {
     name: "Robert Fridzema",
@@ -681,18 +687,18 @@ var hacktobermap = [
     name: "Luke Garrigan",
     location: "Kings Lynn, England",
     latitude: 52.751961,
-    longitude: 0.395360
+    longitude: 0.39536
   },
   {
     name: "Mayur Patil",
     location: "Pune, India",
-    latitude: 18.520430,
-    longitude: 73.856743 
+    latitude: 18.52043,
+    longitude: 73.856743
   },
   {
     name: "Shruti",
     location: "Yokohama, Japan",
     latitude: 35.443707,
     longitude: 139.638031
-  },
+  }
 ];
